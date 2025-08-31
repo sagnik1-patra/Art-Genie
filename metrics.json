@@ -1,0 +1,14 @@
+{
+  "sklearn": {
+    "accuracy": 0.9993957703927493,
+    "f1_weighted": 0.9993040498198018,
+    "top3_accuracy": 0.9997583081570997
+  },
+  "keras": {
+    "accuracy": 1.0,
+    "top3_accuracy": 1.0,
+    "epochs_trained": 13
+  },
+  "n_classes": 201,
+  "n_rows": 124124
+}

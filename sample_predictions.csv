@@ -1,0 +1,201 @@
+text,true_label,pred_sklearn,pred_sklearn_conf,pred_keras,pred_keras_conf
+Socialist-Realism . Kukryniksy,socialist-realism,socialist-realism,0.9947200523578422,socialist-realism,1.0
+Shin-hanga . Hiroshi Yoshida,shin-hanga,shin-hanga,0.9091997762087408,shin-hanga,0.99999976
+Art-Nouveau-(Modern) . Theophile Steinlen,art-nouveau-(modern),art-nouveau-(modern),0.9975942394395726,art-nouveau-(modern),1.0
+Surrealism . Max Ernst,surrealism,surrealism,0.9941260272127738,surrealism,1.0
+Neo-Impressionism . Paul Signac,neo-impressionism,neo-impressionism,0.9793176035092812,neo-impressionism,0.9999993
+Abstract-Expressionism . Antonio Corpora,abstract-expressionism,abstract-expressionism,0.9710059942802945,abstract-expressionism,1.0
+Op-Art . Eduardo Nery,op-art,op-art,0.9665996448298402,op-art,1.0
+Art-Deco . Raphael Delorme,art-deco,art-deco,0.935029804608549,art-deco,1.0
+Neo-Romanticism . Stanley Spencer,neo-romanticism,neo-romanticism,0.982478924719724,neo-romanticism,1.0
+Impressionism . Pierre-Auguste Renoir,impressionism,impressionism,0.989212659891276,impressionism,1.0
+Symbolism . Felicien Rops,symbolism,symbolism,0.9771967884674999,symbolism,1.0
+Conceptual-Art . Hanne Darboven,conceptual-art,conceptual-art,0.9533168806322588,conceptual-art,1.0
+Symbolism . Hugo Simberg,symbolism,symbolism,0.9364711518206991,symbolism,1.0
+Neo-Romanticism . Theodor Severin Kittelsen,neo-romanticism,neo-romanticism,0.9789541509102208,neo-romanticism,1.0
+Post-Impressionism . Jacques Villon,post-impressionism,post-impressionism,0.9607615872813062,post-impressionism,1.0
+Concretism . Ivan Serpa,concretism,concretism,0.8687520787781443,concretism,1.0
+Nouveau-Réalisme . Martial Raysse,nouveau-réalisme,nouveau-réalisme,0.9212255609720932,nouveau-réalisme,0.99999976
+Nouveau-Réalisme . Arman,nouveau-réalisme,nouveau-réalisme,0.9515370271099762,nouveau-réalisme,0.9999906
+Japonism . Hélène Guinepied,japonism,japonism,0.6081727355976113,japonism,0.9999976
+Op-Art . M.C. Escher,op-art,op-art,0.9986933437061368,op-art,1.0
+Surrealism . Max Ernst,surrealism,surrealism,0.9941260272127738,surrealism,1.0
+Expressionism . Amedeo Modigliani,expressionism,expressionism,0.9899685119462057,expressionism,1.0
+Biedermeier . Josef Kriehuber,biedermeier,biedermeier,0.9643451931272505,biedermeier,0.9999999
+Art-Informel . Omer Uluc,art-informel,art-informel,0.9536135346042474,art-informel,1.0
+Art-Nouveau-(Modern) . Byam Shaw,art-nouveau-(modern),art-nouveau-(modern),0.9785629973606478,art-nouveau-(modern),1.0
+Ukiyo-e . Kitagawa Utamaro,ukiyo-e,ukiyo-e,0.9661620018556074,ukiyo-e,1.0
+Naïve-Art-(Primitivism) . Edward Hicks,naïve-art-(primitivism),naïve-art-(primitivism),0.9899925366918401,naïve-art-(primitivism),1.0
+Rococo . George Romney,rococo,rococo,0.9911517511614594,rococo,1.0
+Neo-Geo . Sean Scully,neo-geo,neo-geo,0.6720700734521723,neo-geo,0.99999666
+Art-Deco . Cassandre,art-deco,art-deco,0.989773143264952,art-deco,1.0
+Late-Byzantine/Palaeologan-Renaissance-(c.-–) . Orthodox Icons,late-byzantine/palaeologan-renaissance-(c.-–),late-byzantine/palaeologan-renaissance-(c.-–),0.9178735162367117,late-byzantine/palaeologan-renaissance-(c.-–),0.99998844
+Luminism . Albert Bierstadt,luminism,luminism,0.9744985918062329,luminism,1.0
+Mannerism-(Late-Renaissance) . Bartholomeus Spranger,mannerism-(late-renaissance),mannerism-(late-renaissance),0.9831635787560126,mannerism-(late-renaissance),1.0
+Social-Realism . Dorothea Lange,social-realism,social-realism,0.9714657211841827,social-realism,1.0
+Surrealism . Gherasim Luca,surrealism,surrealism,0.9354088855566531,surrealism,1.0
+High-Renaissance . Leonardo da Vinci,high-renaissance,high-renaissance,0.9805633396101068,high-renaissance,0.9999999
+Tenebrism . Gerard van Honthorst,tenebrism,tenebrism,0.9200810355932412,tenebrism,0.9999999
+Mannerism-(Late-Renaissance) . El Greco,mannerism-(late-renaissance),mannerism-(late-renaissance),0.9922562046271359,mannerism-(late-renaissance),1.0
+Art-Deco . Erte,art-deco,art-deco,0.9977257408458481,art-deco,1.0
+Purism . Fernand Leger,purism,purism,0.9430710108618368,purism,0.9999995
+Fauvism . August Macke,fauvism,fauvism,0.9286930012472325,fauvism,1.0
+Classical-Realism . Frank Mason,classical-realism,classical-realism,0.9501162335908899,classical-realism,0.99999905
+Ink-and-wash-painting . Ding Yanyong,ink-and-wash-painting,ink-and-wash-painting,0.9785519381788385,ink-and-wash-painting,0.99999976
+Moscow-school-of-icon-painting . Andrei Rublev,moscow-school-of-icon-painting,moscow-school-of-icon-painting,0.8592599027663278,moscow-school-of-icon-painting,0.99999297
+Abstract-Art . Otto Freundlich,abstract-art,abstract-art,0.9569718866891989,abstract-art,1.0
+Romanticism . Charles Turner,romanticism,romanticism,0.9903368109818865,romanticism,1.0
+Surrealism . Edward Wadsworth,surrealism,surrealism,0.9721000317348645,surrealism,1.0
+Expressionism . Amedeo Modigliani,expressionism,expressionism,0.9899685119462057,expressionism,1.0
+Cubism . Jacques Lipchitz,cubism,cubism,0.9413572830180186,cubism,1.0
+Color-Field-Painting . Friedel Dzubas,color-field-painting,color-field-painting,0.9775712901845014,color-field-painting,1.0
+Minimalism . Richard Tuttle,minimalism,minimalism,0.9676704411890029,minimalism,1.0
+Baroque . Clara Peeters,baroque,baroque,0.8725084514254522,baroque,1.0
+Abstract-Expressionism . Nathan Oliveira,abstract-expressionism,abstract-expressionism,0.9608539328806873,abstract-expressionism,1.0
+Sōsaku-hanga . Kiyoshi Saito,sōsaku-hanga,sōsaku-hanga,0.948565070068902,sōsaku-hanga,1.0
+Neo-Pop-Art . Romero Britto,neo-pop-art,neo-pop-art,0.9468850866195947,neo-pop-art,1.0
+Symbolism . Konstantin Somov,symbolism,symbolism,0.9906809794894194,symbolism,1.0
+Abstract-Art . Joaquin Torres Garcia,abstract-art,abstract-art,0.9240105551958679,abstract-art,1.0
+Abstract-Expressionism . Noguchi Isamu,abstract-expressionism,abstract-expressionism,0.9683764008228513,abstract-expressionism,1.0
+Intimism . Pierre Bonnard,intimism,intimism,0.8730705160391046,intimism,0.9999937
+Northern-Renaissance . Hans Baldung,northern-renaissance,northern-renaissance,0.9915378402606047,northern-renaissance,1.0
+Impressionism . Claude Monet,impressionism,impressionism,0.9928490857754085,impressionism,1.0
+Expressionism . Chaim Soutine,expressionism,expressionism,0.9547908026953101,expressionism,1.0
+Orientalism . Jean-Leon Gerome,orientalism,orientalism,0.9857728247147209,orientalism,1.0
+Baroque . Francisco de Zurbaran,baroque,baroque,0.9665074539003746,baroque,1.0
+Cubism . Man Ray,cubism,cubism,0.9479031906414562,cubism,1.0
+Neo-Romanticism . Stanley Spencer,neo-romanticism,neo-romanticism,0.982478924719724,neo-romanticism,1.0
+Ink-and-wash-painting . Yosa Buson,ink-and-wash-painting,ink-and-wash-painting,0.9592150544396171,ink-and-wash-painting,0.99999976
+Surrealism . Andre Masson,surrealism,surrealism,0.9745668346108627,surrealism,1.0
+High-Renaissance . Andrea del Sarto,high-renaissance,high-renaissance,0.9587119063553463,high-renaissance,0.99999964
+Post-Minimalism . Ion Pantilie,post-minimalism,post-minimalism,0.9169823366895461,post-minimalism,0.9999999
+Cloisonnism . Paul Gauguin,cloisonnism,cloisonnism,0.9513323951478083,cloisonnism,0.9999974
+Pop-Art . Dieter Roth,pop-art,pop-art,0.956744244821578,pop-art,1.0
+Realism . Anton Romako,realism,realism,0.8618483444366833,realism,0.9999999
+Pictorialism . Frank Eugene,pictorialism,pictorialism,0.8841115608425588,pictorialism,0.999997
+Rococo . Jean-Baptiste Greuze,rococo,rococo,0.9779497130657332,rococo,1.0
+Expressionism . Max Oppenheimer,expressionism,expressionism,0.9287444639806414,expressionism,1.0
+Abstract-Expressionism . Robert Motherwell,abstract-expressionism,abstract-expressionism,0.9902680180761352,abstract-expressionism,1.0
+Native-Art . Ruth Annaqtuusi Tulurialik,native-art,native-art,0.8154204309729736,native-art,0.99999595
+Rococo . Fyodor Rokotov,rococo,rococo,0.9498036154987637,rococo,1.0
+Early-Renaissance . Antonello da Messina,early-renaissance,early-renaissance,0.9461303683027782,early-renaissance,0.9999999
+Symbolism . Joan Brull,symbolism,symbolism,0.9844840235548525,symbolism,1.0
+Color-Field-Painting . Perle Fine,color-field-painting,color-field-painting,0.969835578008943,color-field-painting,1.0
+Rococo . Jean-Étienne Liotard,rococo,rococo,0.9780892492083971,rococo,1.0
+Neoclassicism . Jean Auguste Dominique Ingres,neoclassicism,neoclassicism,0.9698994977953086,neoclassicism,1.0
+Abstract-Expressionism . Esteban Vicente,abstract-expressionism,abstract-expressionism,0.9774540632097609,abstract-expressionism,1.0
+Impressionism . Claude Monet,impressionism,impressionism,0.9928490857754085,impressionism,1.0
+Surrealism . Rene Magritte,surrealism,surrealism,0.992106232059563,surrealism,1.0
+Early-Renaissance . Andrea Mantegna,early-renaissance,early-renaissance,0.9873557083182739,early-renaissance,1.0
+Expressionism . Walter Gramatté,expressionism,expressionism,0.947772023545358,expressionism,1.0
+Baroque . Artemisia Gentileschi,baroque,baroque,0.8968843860207086,baroque,1.0
+Art-Deco . John Austen,art-deco,art-deco,0.9723556888833494,art-deco,1.0
+Art-Informel . Luigi Guardigli,art-informel,art-informel,0.9614011604478062,art-informel,1.0
+Digital-Art . Saul Zanolari,digital-art,digital-art,0.7898448465661312,digital-art,0.99999833
+Hellenistic . Ancient Greek Pottery,hellenistic,hellenistic,0.755025643172709,hellenistic,0.9999956
+Magic-Realism . William Balthazar Rose,magic-realism,magic-realism,0.9258170428258812,magic-realism,0.9999999
+Orientalism . Rudolf Ernst,orientalism,orientalism,0.9710577777959997,orientalism,1.0
+Rococo . Joshua Reynolds,rococo,rococo,0.9858515827184131,rococo,1.0
+Early-Renaissance . Carlo Crivelli,early-renaissance,early-renaissance,0.9812466750761452,early-renaissance,1.0
+Nihonga . Uemura Shoen,nihonga,nihonga,0.7309169541729533,nihonga,0.99999905
+Expressionism . Pablo Picasso,expressionism,expressionism,0.9857760497975082,expressionism,1.0
+Realism . Camille Corot,realism,realism,0.9900923437138328,realism,1.0
+Neoclassicism . Louis Léopold Robert,neoclassicism,neoclassicism,0.9150410740853031,neoclassicism,1.0
+Abstract-Expressionism . Alexander Calder,abstract-expressionism,abstract-expressionism,0.9908964097765465,abstract-expressionism,1.0
+Academicism . Paul Peel,academicism,academicism,0.9698922307607107,academicism,1.0
+Academicism . Frederic Leighton,academicism,academicism,0.9856902276035688,academicism,1.0
+Ukiyo-e . Utagawa Kuniyoshi,ukiyo-e,ukiyo-e,0.9922917252936786,ukiyo-e,1.0
+Expressionism . Amedeo Modigliani,expressionism,expressionism,0.9899685119462057,expressionism,1.0
+Mannerism-(Late-Renaissance) . Orazio Gentileschi,mannerism-(late-renaissance),mannerism-(late-renaissance),0.9805443729450247,mannerism-(late-renaissance),1.0
+Cubism . Nzante Spee,cubism,cubism,0.8905977250355389,cubism,1.0
+Naïve-Art-(Primitivism) . Grégoire Michonze,naïve-art-(primitivism),naïve-art-(primitivism),0.9821867927431336,naïve-art-(primitivism),1.0
+Neoclassicism . Giovanni Battista Piranesi,neoclassicism,neoclassicism,0.9969239810762999,neoclassicism,1.0
+Abstract-Art . Victor Vasarely,abstract-art,abstract-art,0.9736358693054252,abstract-art,1.0
+Abstract-Art . David Kakabadze,abstract-art,abstract-art,0.9840521546132742,abstract-art,1.0
+Naïve-Art-(Primitivism) . Kateryna Bilokur,naïve-art-(primitivism),naïve-art-(primitivism),0.9827039090740661,naïve-art-(primitivism),1.0
+Ukiyo-e . Ogata Gekko,ukiyo-e,ukiyo-e,0.8842942908655044,ukiyo-e,1.0
+Social-Realism . Sue Coe,social-realism,social-realism,0.9886697150568136,social-realism,1.0
+Post-Impressionism . Abraham Manievich,post-impressionism,post-impressionism,0.8752513788173591,post-impressionism,1.0
+Romanticism . Alexander Clarot,romanticism,romanticism,0.9353066747033475,romanticism,1.0
+Purism . Fernand Leger,purism,purism,0.9430710108618368,purism,0.9999995
+Social-Realism . Sue Coe,social-realism,social-realism,0.9886697150568136,social-realism,1.0
+Moscow-school-of-icon-painting . Orthodox Icons,moscow-school-of-icon-painting,moscow-school-of-icon-painting,0.5445592928202323,moscow-school-of-icon-painting,0.99985933
+Expressionism . Pablo Picasso,expressionism,expressionism,0.9857760497975082,expressionism,1.0
+Expressionism . James Ensor,expressionism,expressionism,0.8988431046379501,expressionism,1.0
+Art-Informel . Alfred Manessier,art-informel,art-informel,0.9848045512498892,art-informel,1.0
+Baroque . Rembrandt,baroque,baroque,0.9993669188099438,baroque,1.0
+Cubism . Marc Chagall,cubism,cubism,0.9906165317200657,cubism,1.0
+Rococo . Jean-Baptiste Greuze,rococo,rococo,0.9779497130657332,rococo,1.0
+Post-Impressionism . Vincent van Gogh,post-impressionism,post-impressionism,0.9971895781490859,post-impressionism,1.0
+Neo-Impressionism . Vincent van Gogh,neo-impressionism,neo-impressionism,0.9818391267726159,neo-impressionism,1.0
+Socialist-Realism . Sergey Ryabchenko,socialist-realism,socialist-realism,0.9624287671991719,socialist-realism,1.0
+Neo-Expressionism . Samuel Buri,neo-expressionism,neo-expressionism,0.9429141900985426,neo-expressionism,1.0
+Lyrical-Abstraction . Helen Frankenthaler,lyrical-abstraction,lyrical-abstraction,0.9859541108179498,lyrical-abstraction,1.0
+Ink-and-wash-painting . Li Tang,ink-and-wash-painting,ink-and-wash-painting,0.9829585743406195,ink-and-wash-painting,0.9999995
+Kinetic-Art . Yaacov Agam,kinetic-art,kinetic-art,0.8023820834207679,kinetic-art,0.9999988
+Neoclassicism . Giovanni Battista Piranesi,neoclassicism,neoclassicism,0.9969239810762999,neoclassicism,1.0
+Conceptual-Art . Alfio Giuffrida,conceptual-art,conceptual-art,0.9857032694488325,conceptual-art,1.0
+Socialist-Realism . Sergey Ryabchenko,socialist-realism,socialist-realism,0.9624287671991719,socialist-realism,1.0
+Pictorialism . Gertrude Kasebier,pictorialism,pictorialism,0.8659209166558374,pictorialism,0.99999857
+Romanticism . Francesco Hayez,romanticism,romanticism,0.949721225403067,romanticism,1.0
+Abstract-Art . Auguste Herbin,abstract-art,abstract-art,0.9771325389774498,abstract-art,1.0
+Outsider-art . Bernadette Resha,outsider-art,outsider-art,0.9521096405058386,outsider-art,0.99999964
+Impressionism . Pierre-Auguste Renoir,impressionism,impressionism,0.989212659891276,impressionism,1.0
+Postcolonial-art . Njideka Akunyili Crosby,postcolonial-art,postcolonial-art,0.9218815306431053,postcolonial-art,0.99999297
+Early-Renaissance . Pisanello,early-renaissance,early-renaissance,0.9781922640101487,early-renaissance,0.99999976
+Realism . Ivan Kramskoy,realism,realism,0.9553823624817986,realism,1.0
+Symbolism . Odilon Redon,symbolism,symbolism,0.9946056047517321,symbolism,1.0
+Kitsch . Konrad Zuse,kitsch,kitsch,0.9397951297598687,kitsch,1.0
+Northern-Renaissance . Albrecht Durer,northern-renaissance,northern-renaissance,0.9987683674535784,northern-renaissance,1.0
+Cubism . Dorrit Black,cubism,cubism,0.9695177931158798,cubism,1.0
+Orientalism . Jean-François Portaels,orientalism,orientalism,0.9716648055857521,orientalism,1.0
+Neo-Pop-Art . Takashi Murakami,neo-pop-art,neo-pop-art,0.9608874771662566,neo-pop-art,0.9999999
+Orientalism . Henri Matisse,orientalism,orientalism,0.9715446362585075,orientalism,1.0
+Surrealism . Salvador Dali,surrealism,surrealism,0.9962709391048231,surrealism,1.0
+Romanticism . Thomas Sully,romanticism,romanticism,0.9854241698892253,romanticism,1.0
+Lyrical-Abstraction . Rene Duvillier,lyrical-abstraction,lyrical-abstraction,0.9713944553070769,lyrical-abstraction,1.0
+Pop-Art . Allan D'Arcangelo,pop-art,pop-art,0.9543114490845956,pop-art,1.0
+Neo-Expressionism . Richard Spare,neo-expressionism,neo-expressionism,0.9607430901274906,neo-expressionism,1.0
+Rococo . William Hogarth,rococo,rococo,0.9837727884412918,rococo,1.0
+Realism . Fyodor Vasilyev,realism,realism,0.9739807697464645,realism,1.0
+Symbolism . Odilon Redon,symbolism,symbolism,0.9946056047517321,symbolism,1.0
+Cubism . Henri Matisse,cubism,cubism,0.98950690971034,cubism,1.0
+Neoclassicism . Giovanni Battista Piranesi,neoclassicism,neoclassicism,0.9969239810762999,neoclassicism,1.0
+Pictorialism . Felix Nadar,pictorialism,pictorialism,0.9783768823935078,pictorialism,0.9999995
+Post-Impressionism . Pablo Picasso,post-impressionism,post-impressionism,0.9943568140197354,post-impressionism,1.0
+Symbolism . Gustave Moreau,symbolism,symbolism,0.9874365911850514,symbolism,1.0
+Magic-Realism . Nina Tokhtaman Valetova,magic-realism,magic-realism,0.9744877105767962,magic-realism,1.0
+Art-Nouveau-(Modern) . Alfred Roller,art-nouveau-(modern),art-nouveau-(modern),0.9813321419379506,art-nouveau-(modern),1.0
+Lyrical-Abstraction . Helen Frankenthaler,lyrical-abstraction,lyrical-abstraction,0.9859541108179498,lyrical-abstraction,1.0
+Art-Deco . Erte,art-deco,art-deco,0.9977257408458481,art-deco,1.0
+International-Gothic . Limbourg brothers,international-gothic,international-gothic,0.9697498715397816,international-gothic,1.0
+Biedermeier . Ferdinand Georg Waldmüller,biedermeier,biedermeier,0.9247744630353936,biedermeier,0.99999833
+Post-Minimalism . Franz Erhard Walther,post-minimalism,post-minimalism,0.9206161983546179,post-minimalism,0.99999785
+Abstract-Art . Tiberiy Szilvashi,abstract-art,abstract-art,0.9784719260772506,abstract-art,1.0
+Social-Realism . Sue Coe,social-realism,social-realism,0.9886697150568136,social-realism,1.0
+Symbolism . Paul Ranson,symbolism,symbolism,0.9229289923916945,symbolism,1.0
+Ukiyo-e . Katsushika Hokusai,ukiyo-e,ukiyo-e,0.9827701891892208,ukiyo-e,1.0
+Color-Field-Painting . Sam Francis,color-field-painting,color-field-painting,0.9937003564454254,color-field-painting,1.0
+Magic-Realism . Eyvind Earle,magic-realism,magic-realism,0.9958551930771273,magic-realism,1.0
+Realism . Jules Dupre,realism,realism,0.8971529277940995,realism,1.0
+Pointillism . Georges Seurat,pointillism,pointillism,0.9681730293482377,pointillism,0.99999976
+Conceptual-Art . Louise Bourgeois,conceptual-art,conceptual-art,0.9876549765168621,conceptual-art,1.0
+American-Realism . Robert Henri,american-realism,american-realism,0.9773458574760774,american-realism,0.99999976
+Proto-Renaissance . Giotto,proto-renaissance,proto-renaissance,0.9712073659579109,proto-renaissance,0.9999999
+Pointillism . Henri Martin,pointillism,pointillism,0.9709909041699578,pointillism,0.99999964
+Northern-Renaissance . Albrecht Durer,northern-renaissance,northern-renaissance,0.9987683674535784,northern-renaissance,1.0
+Realism . Carolus-Duran,realism,realism,0.9072315581595999,realism,0.99999857
+Rococo . Jean-Étienne Liotard,rococo,rococo,0.9780892492083971,rococo,1.0
+Mechanistic-Cubism . Richard Lindner,mechanistic-cubism,mechanistic-cubism,0.8485394230733756,mechanistic-cubism,0.99999976
+Art-Nouveau-(Modern) . Jacek Malczewski,art-nouveau-(modern),art-nouveau-(modern),0.9765752153777413,art-nouveau-(modern),1.0
+Impressionism . Eugene Boudin,impressionism,impressionism,0.9816245981011698,impressionism,1.0
+Neoclassicism . Giovanni Battista Piranesi,neoclassicism,neoclassicism,0.9969239810762999,neoclassicism,1.0
+Surrealism . Pablo Picasso,surrealism,surrealism,0.9955253771236257,surrealism,1.0
+New-European-Painting . Gerhard Richter,new-european-painting,new-european-painting,0.9688785692627598,new-european-painting,0.99999917
+Contemporary-Realism . Gazmend Freitag,contemporary-realism,contemporary-realism,0.990670700935599,contemporary-realism,1.0
+Academicism . Carl Bloch,academicism,academicism,0.9620165813496389,academicism,1.0
+Fauvism . David Burliuk,fauvism,fauvism,0.9010320164305355,fauvism,1.0
+Impressionism . Claude Monet,impressionism,impressionism,0.9928490857754085,impressionism,1.0
+Magic-Realism . Eyvind Earle,magic-realism,magic-realism,0.9958551930771273,magic-realism,1.0
+Pop-Art . Edward Ruscha,pop-art,pop-art,0.9843405548319268,pop-art,1.0
+Northern-Renaissance . Hans Holbein the Elder,northern-renaissance,northern-renaissance,0.9898478794545055,northern-renaissance,1.0

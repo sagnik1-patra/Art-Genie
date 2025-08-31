@@ -1,0 +1,20 @@
+data_path: C:\Users\sagni\Downloads\Art Genie\archive\wikiart_scraped.csv
+artifact_dir: C:\Users\sagni\Downloads\Art Genie
+label_column: style
+text_columns_used:
+- style
+- artist
+models:
+  sklearn_pipeline_pkl: artgenie_textclf.pkl
+  keras_model_h5: artgenie_textclf.h5
+label_mapping_json: label_mapping.json
+training:
+  sklearn:
+    tfidf_max_features: 100000
+    ngram_range:
+    - 1
+    - 2
+  keras:
+    vocab_size: 40000
+    max_len: 128
+    epochs_max: 25
